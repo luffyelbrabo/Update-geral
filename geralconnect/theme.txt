@@ -1,0 +1,18 @@
+{
+  "Version": "5",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/theme",
+  "AppName": "GERAL CONNECT",
+  "ImgFundo": "https://i.ibb.co/hV4z9Qj/elizeu-fundo.png",
+  "ImgLogo": "https://i.ibb.co/3vbz1Hg/logo.gif",
+  "ImgMenu": "https://i.ibb.co/7vMVvZs/menu.png",
+  "ImgLogs": "https://telegra.ph/file/ca921a93220cc2281f147.png",
+  "ImgCheck": "https://i.ibb.co/PN4p4QF/logs.png",
+  'ImgUser': "https://i.ibb.co/fF2LJJb/checkuser.png",
+  'ImgPass': "https://i.ibb.co/308GPv6/senha.png",
+  "ImgVersion": "https://i.ibb.co/nwwJ61P/vers-o.png",
+  "ColorOne": "#7A333333",
+  "ColorTwo": "#7A333333",
+  "ColorStarter": "#7A333333",
+  "ColorDialogs": "#84ffffff",
+  "ColorButtons": "#333333"
+}
