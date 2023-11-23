@@ -1,6 +1,6 @@
 {
-    "Version": "0.1",
-    "ReleaseNotes": "Nova Atualiza??o Dispon��vel\n\nAtualize o Aplicativo\nPara Continuar usando\nnossos servi?os de Internet ilimitada",
+    "Version": "0.2",
+    "ReleaseNotes": "Nova Atualização Disponível\n\nAtualize o Aplicativo\nPara Continuar usando\nnossos serviços os de Internet ilimitada",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/dnetvpn4g/dnetvpn4g.txt",
     "EmailFeedback": "@gmail.com",
@@ -10,7 +10,7 @@
     "UdpPort": "7300",
     "Servers": [
        {
-            "Name": "Atualizado dia 03/11 ? 14.1?",
+            "Name": "Atualizado dia 23/11 🆚 14.1🔥",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dnetvpn.site",
@@ -23,7 +23,7 @@
     ],
     "Networks": [
         {
-            "Name": "? ????????? ??? ?????????",
+            "Name": "🔰 𝚂𝙴𝙻𝙴𝙲𝙸𝙾𝙽𝙴 𝚂𝚄𝙰 𝙾𝙿𝙴𝚁𝙰𝙳𝙾𝚁𝙰",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -155,7 +155,7 @@
     "Info": "Proxy"
     },
 {
-            "Name": "===⬇️CONEXÃO TIM⬇️===",
+            "Name": "===猬囷笍CONEX脙O TIM猬囷笍===",
             "FLAG": "tim",
             "Payload": "",
             "SNI": "",
