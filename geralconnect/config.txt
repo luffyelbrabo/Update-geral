@@ -1,5 +1,5 @@
 {
-  "Version": "14",
+  "Version": "15",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
