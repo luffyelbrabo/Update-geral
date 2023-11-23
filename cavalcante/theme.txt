@@ -1,6 +1,6 @@
 {
   "Version": "6",
-  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/cavalcante/tema.txt",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/cavalcante/theme.txt",
   "AppName": "CAVALCANTE NET",
   "ImgFundo": "https://i.ibb.co/GcwBPDL/IMG-20231030-235604-444.jpg",
   "ImgLogo": "https://i.ibb.co/9gWDB79/fundo-elizeu.png",
