@@ -1,6 +1,6 @@
 {
   "Version": "5",
-  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geral-connect/theme",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geral-connect/theme.txt",
   "AppName": "GERAL CONNECT",
   "ImgFundo": "https://i.ibb.co/hV4z9Qj/elizeu-fundo.png",
   "ImgLogo": "https://i.ibb.co/3vbz1Hg/logo.gif",
