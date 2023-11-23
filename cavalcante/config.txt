@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "10",
   "Update": "https://paste.anasor.com/paste.php?raw&id=349546",
   "UdpPort": "7300",
   "Contato": "",
