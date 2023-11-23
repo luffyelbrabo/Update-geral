@@ -2,7 +2,7 @@
     "Version": "0.9",
     "ReleaseNotes": ". ",
     "Sms": "",
-    "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=348800",
+    "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
     "EmailFeedback":"https://fast.com/pt/",
     "UrlContato": "https://painel.robertvpn.online/renovar.php",
     "UrlTermos": "",
