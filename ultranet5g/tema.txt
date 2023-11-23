@@ -1,6 +1,6 @@
 {
   "Version": "4",
-  "Update": "https://paste.anasor.com/paste.php?raw&id=349658",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/tema.txt",
   "AppName": "ULTRANET 5G",
   "ImgFundo": "https://i.ibb.co/gjXRWZN/logo-ultra5g.jpg",
   "ImgLogo": "https://i.gifer.com/XZ5V.gif",

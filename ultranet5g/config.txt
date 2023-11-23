@@ -1,6 +1,6 @@
 {
   "Version": "14",
-  "Update": "https://paste.anasor.com/paste.php?raw&id=349657",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
   "Site": "https://fast.com/pt/",
