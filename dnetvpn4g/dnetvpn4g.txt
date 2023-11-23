@@ -1,0 +1,288 @@
+{
+    "Version": "5.1.1.8.1",
+    "ReleaseNotes": "Nova Atualização Disponível\n\nAtualize o Aplicativo\nPara Continuar usando\nnossos serviços de Internet ilimitada",
+    "Sms": "",
+    "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=346404",
+    "EmailFeedback": "@gmail.com",
+    "UrlContato": "",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "UdpPort": "7300",
+    "Servers": [
+       {
+            "Name": "Atualizado dia 03/11 ? 14.1?",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "dnetvpn.site",
+            "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        }
+    ],
+    "Networks": [
+        {
+            "Name": "? ????????? ??? ?????????",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+        {           
+            "Name": "VIVO SECURITY",
+            "FLAG": "vivo",
+            "Payload": "[split][lf]ACL / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "8080",
+            "Info": "Proxy"            
+        },
+        {           
+            "Name": "VIVO SECURITY 00",
+            "FLAG": "vivo",
+            "Payload": "[split][delay_split]ACL / /\n",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "8080",
+            "Info": "Proxy"            
+        },        
+        {
+           "Name": "VIVO SECURITY 01",
+           "FLAG": "vivo",
+           "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]#ACL http://1.1.1.1rotate= buzzfeed.com ; mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com ; myspace .com ; mobile.google.com ;1.0.0.5[crlf]#ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: [app_host][crlf]Connection:l llbj  Keep-Alive[crlf]User-Agent: [ua][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net [crlf]",
+           "SNI": "",
+           "TlsIP": "",
+           "ProxyIP": "dnetvpn.site",
+           "ProxyPort": "8080",
+           "Info": "Proxy"
+        },
+	    {
+	       "Name": "VIVO SECURITY 02",
+	       "FLAG": "vivo",
+	       "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+    "Name": "VIVO SECURITY 03",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: microsoft.com[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+    "Name": "VIVO SECURITY 04",
+    "FLAG": "vivo",
+    "Payload": "[delay_split] GET / HTTP/2[crlf]#[delay_split]HEAD http://google.com/ HTTP/1.1[crlf]Host: google.com[crlf][crlf]#[delay_split] GET / HTTP/2[crlf]#[delay_split]GET http://[rotate=google.com.br;vivo.com.br;deezer.com]/ HTTP/1.1[crlf]Host: [rotate=google.com.br;vivo.com.br;deezer.com][crlf]Upgrade: websocket[crlf][crlf]#[delay_split]GET http://vivo.com.br/ HTTP/1.1[crlf]Host: vivo.com.br[crlf][crlf]#[delay_split]GET http://google.com/ HTTP/1.1[crlf]Host: google.com[crlf][crlf]#[delay_split]GET /HTTP 1.2",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+    "Name": "VIVO SECURITY 05",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: microsoft.com[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+    "Name": "VIVO SECURITY 06",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET 104.18.28.38 HTTP/1.1[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+},
+        { 
+
+"Name": "VIVO SECURITY 07",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET 104.16.53.111 HTTP/1.1[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+"Name": "VIVO SECURITY 08",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET 104.18.216.229 HTTP/1.1[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+"Name": "VIVO SECURITY 09",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET 104.18.99.225 HTTP/1.1[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+	  {
+
+"Name": "VIVO SECURITY 10",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET 104.18.216.229 HTTP/1.1[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "dnetvpn.site",
+    "ProxyPort": "8080",
+    "Info": "Proxy"
+    },
+{
+            "Name": "===⬇️CONEXÃO TIM⬇️===",
+            "FLAG": "tim",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
+        },
+{
+            "Name": "TIM FRONT ON 01",
+            "FLAG": "tim",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=09h01x76q95104e2h5.speedup.mobi;c0u768920w891f302o.speedup.mobi;6x090i2z908691sj46.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "Atendimento.descomplica.com.br",             
+            "TlsIP": "",
+            "ProxyIP": "launches.appsflyer.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM FRONT ON 02",
+            "FLAG": "tim",
+            "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [rotate=09h01x76q95104e2h5.speedup.mobi;c0u768920w891f302o.speedup.mobi;6x090i2z908691sj46.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "Atendimento.descomplica.com.br",             
+            "TlsIP": "",
+            "ProxyIP": "launches.appsflyer.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"        
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 01",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: dnetvpn.site[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 02",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.19.241.93[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 03",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.28.182[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 04",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.19.239.25[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"        
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 05",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.33.113[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 06",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 172.64.154.143[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 07",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.99.70[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"        
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 08",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.16.53.111[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 09",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 172.67.188.168[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 10",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.17.64.225[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",             
+            "TlsIP": "",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        }
+   ]
+}
