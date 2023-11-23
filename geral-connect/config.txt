@@ -1,6 +1,6 @@
 {
   "Version": "13",
-  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geral-connect/config",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geral-connect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
   "Site": "https://fast.com/pt/",
