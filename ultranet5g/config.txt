@@ -1,5 +1,5 @@
 {
-  "Version": "16",
+  "Version": "17",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
