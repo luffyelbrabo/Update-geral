@@ -6,7 +6,7 @@
   "Site": "https://fast.com/pt/",
   "Servers": [    
     {
-      "Name": "VIVO - DDD 27",
+      "Name": "VIVO - DDD 32",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
