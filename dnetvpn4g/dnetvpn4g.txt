@@ -155,7 +155,7 @@
     "Info": "Proxy"
     },
 {
-            "Name": "===猬囷笍CONEX脙O TIM猬囷笍===",
+            "Name": "===CONEXÃO TIM FRONT===",
             "FLAG": "tim",
             "Payload": "",
             "SNI": "",
@@ -183,6 +183,16 @@
             "ProxyIP": "launches.appsflyer.com",
             "ProxyPort": "80",
             "Info": "Proxy"        
+        },
+{
+            "Name": "===CONEXÃO TIM EXPIRADO===",
+            "FLAG": "tim",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Tlsws"
         },
         {
             "Name": "TIM NOVA EXPIRADO 01",
