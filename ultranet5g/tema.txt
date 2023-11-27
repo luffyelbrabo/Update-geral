@@ -1,8 +1,8 @@
 {
-  "Version": "4",
+  "Version": "5",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/tema.txt",
   "AppName": "ULTRANET 5G",
-  "ImgFundo": "https://i.ibb.co/gjXRWZN/logo-ultra5g.jpg",
+  "ImgFundo": "https://i.ibb.co/4PLw4F9/fundo-ultranet5g.jpg",
   "ImgLogo": "https://i.gifer.com/XZ5V.gif",
   "ImgMenu": "https://telegra.ph/file/828fa0ae4f65228764d39.png",
   "ImgLogs": "https://telegra.ph/file/ca921a93220cc2281f147.png",
