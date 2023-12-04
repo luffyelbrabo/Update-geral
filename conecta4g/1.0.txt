@@ -1,5 +1,5 @@
 {
-    "Version": "0.9.2",
+    "Version": "0.9.3",
     "ReleaseNotes": ". ",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "Atualizado dia 24/11 🆚 14.2🔥",
+            "Name": "Atualizado dia 04/12 🆚 14.3🔥",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dnetvpn.site",
@@ -249,7 +249,7 @@
 {
             "Name": "TIM FRONT ON 01",
             "FLAG": "tim",
-            "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=5078v254w1371t0i7m.speedup.mobi;6071y37705708erv4e.speedup.mobi;08299i1xf830776dl7.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=1575022b074x1ek18j.speedup.mobi;02a7h17a17e11702o6.speedup.mob;717110w1h07pi7310a.speedup.mob][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
             "SNI": "Atendimento.descomplica.com.br",             
             "TlsIP": "",
             "ProxyIP": "launches.appsflyer.com",
@@ -259,7 +259,7 @@
         {
             "Name": "TIM FRONT ON 02",
             "FLAG": "tim",
-            "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [rotate=5078v254w1371t0i7m.speedup.mobi;6071y37705708erv4e.speedup.mobi;08299i1xf830776dl7.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [rotate=1575022b074x1ek18j.speedup.mobi;02a7h17a17e11702o6.speedup.mob;717110w1h07pi7310a.speedup.mob][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
             "SNI": "Atendimento.descomplica.com.br",             
             "TlsIP": "",
             "ProxyIP": "launches.appsflyer.com",
