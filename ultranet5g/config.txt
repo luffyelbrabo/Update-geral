@@ -5,50 +5,8 @@
   "Contato": "",
   "Site": "https://fast.com/pt/",
   "Servers": [    
-{
+    {
       "Name": "VIVO 1 ➜ CONFIG 1 ➜ SECURITY",
-      "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
-      "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
-      "ServerPort": "80",
-      "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41[crlf][crlf]",
-      "ProxyIP": "209.14.70.72",
-      "ProxyPort": "80",
-      "SNI": "",
-      "USER": "",
-      "PASS": "",
-      "CheckUser": "https://ultranet5g.samuraihost.com.br/checkuser/conecta4g.php",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 2 ➜ CONFIG 2 ➜ SECURITY",
-      "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
-      "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
-      "ServerPort": "80",
-      "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41[crlf][crlf]",
-      "ProxyIP": "209.14.70.72",
-      "ProxyPort": "80",
-      "SNI": "",
-      "USER": "",
-      "PASS": "",
-      "CheckUser": "https://ultranet5g.samuraihost.com.br/checkuser/conecta4g.php",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 3 ➜ CONFIG 3 ➜ SECURITY",
-      "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
-      "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
-      "ServerPort": "80",
-      "Payload": "GET / HTTP/1.1[crlf]Host: elizeu.ultranet5g.dnetvpn.site[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "ProxyIP": "172.64.150.8#104.18.7.41#104.18.6.80#openconnect.netflix.com#vivo360.vivo.com.br#legado.vivo.com.br#assine.vivo.com.br",
-      "ProxyPort": "80",
-      "SNI": "",
-      "USER": "",
-      "PASS": "",
-      "CheckUser": "https://ultranet5g.samuraihost.com.br/checkuser/conecta4g.php",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO 4 ➜ CONFIG 4 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -62,7 +20,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 5 ➜ CONFIG 5 ➜ SECURITY",
+      "Name": "VIVO 2 ➜ CONFIG 2 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -76,7 +34,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 6 ➜ CONFIG 6 ➜ SECURITY",
+      "Name": "VIVO 3 ➜ CONFIG 3 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -90,7 +48,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 7 ➜ CONFIG 7 ➜ SECURITY",
+      "Name": "VIVO 4 ➜ CONFIG 4 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -104,7 +62,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 8 ➜ CONFIG 8 ➜ SECURITY",
+      "Name": "VIVO 5 ➜ CONFIG 5 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -118,7 +76,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 9 ➜ CONFIG 9 ➜ SECURITY",
+      "Name": "VIVO 6 ➜ CONFIG 6 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -132,7 +90,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 10 ➜ CONFIG 10 ➜ SECURITY",
+      "Name": "VIVO 7 ➜ CONFIG 7 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -146,7 +104,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 11 ➜ CONFIG 11 ➜ SECURITY",
+      "Name": "VIVO 8 ➜ CONFIG 8 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -160,7 +118,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 12 ➜ CONFIG 12 ➜ SECURITY",
+      "Name": "VIVO 9 ➜ CONFIG 9 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -174,7 +132,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 13 ➜ CONFIG 13 ➜ SECURITY",
+      "Name": "VIVO 10 ➜ CONFIG 10 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -188,7 +146,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 14 ➜ CONFIG 14 ➜ SECURITY",
+      "Name": "VIVO 11 ➜ CONFIG 11 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -202,7 +160,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 15 ➜ CONFIG 15 ➜ SECURITY",
+      "Name": "VIVO 12 ➜ CONFIG 12 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -216,7 +174,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 16 ➜ CONFIG 16 ➜ SECURITY",
+      "Name": "VIVO 13 ➜ CONFIG 13 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -230,7 +188,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 17 ➜ CONFIG 17 ➜ SECURITY",
+      "Name": "VIVO 14 ➜ CONFIG 14 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -244,7 +202,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 18 ➜ CONFIG 18 ➜ SECURITY",
+      "Name": "VIVO 15 ➜ CONFIG 15 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -258,7 +216,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 19 ➜ CONFIG 19 ➜ SECURITY",
+      "Name": "VIVO 16 ➜ CONFIG 16 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -272,7 +230,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 20 ➜ CONFIG 20 ➜ SECURITY",
+      "Name": "VIVO 17 ➜ CONFIG 17 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -286,7 +244,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 21 ➜ CONFIG 21 ➜ SECURITY",
+      "Name": "VIVO 18 ➜ CONFIG 18 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -300,7 +258,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 22 ➜ CONFIG 22 ➜ SECURITY",
+      "Name": "VIVO 19 ➜ CONFIG 19 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
@@ -314,7 +272,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 23 ➜ CONFIG 23 ➜ SECURITY",
+      "Name": "VIVO 20 ➜ CONFIG 20 ➜ SECURITY",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
