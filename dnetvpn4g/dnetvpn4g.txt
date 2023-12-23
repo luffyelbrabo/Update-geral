@@ -1,5 +1,5 @@
 {
-    "Version": "0.4",
+    "Version": "0.5",
     "ReleaseNotes": "Nova Atualização Disponível\n\nAtualize o Aplicativo\nPara Continuar usando\nnossos serviços os de Internet ilimitada",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/dnetvpn4g/dnetvpn4g.txt",
@@ -167,7 +167,7 @@
 {
             "Name": "TIM FRONT ON 01",
             "FLAG": "tim",
-            "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=5078v254w1371t0i7m.speedup.mobi;6071y37705708erv4e.speedup.mobi;08299i1xf830776dl7.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=350e73920ls1jt3195.speedup.mobi;6071y37705708erv4e.speedup.mobi;08299i1xf830776dl7.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
             "SNI": "Atendimento.descomplica.com.br",             
             "TlsIP": "",
             "ProxyIP": "launches.appsflyer.com",
