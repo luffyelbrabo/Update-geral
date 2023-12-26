@@ -1,6 +1,6 @@
 {
   "Version": "25",
-  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
+  "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
   "Site": "https://fast.com/pt/",
