@@ -1,5 +1,5 @@
 {
-    "Version": "0.9.6",
+    "Version": "0.9.7",
     "ReleaseNotes": ". ",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "Atualizado dia 26/12 🆚 14.5🔥",
+            "Name": "Atualizado dia 26/12 🆚 14.4🔥",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dnetvpn.site",
@@ -33,7 +33,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "209.14.70.109",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },        
  {
@@ -43,7 +43,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "dnetvpn.site",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
           {
@@ -53,7 +53,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "dnetvpn.site",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
        {
@@ -63,7 +63,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -73,7 +73,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -83,7 +83,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -93,7 +93,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -103,7 +103,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -113,7 +113,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -123,7 +123,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -133,7 +133,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -143,7 +143,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -153,7 +153,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 	{
@@ -163,7 +163,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 	{
@@ -173,7 +173,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -183,7 +183,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -193,7 +193,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
@@ -203,7 +203,7 @@
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "dnetvpn.site",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
     },
 	{
@@ -213,7 +213,7 @@
             "SNI": "",
             "TlsIP": "dnetvpn.site",
             "ProxyIP": "dnetvpn.site",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
     },
 	{
@@ -223,7 +223,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 	{
@@ -233,7 +233,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 	{
@@ -243,7 +243,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dnetvpn.site",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
 },
 {
