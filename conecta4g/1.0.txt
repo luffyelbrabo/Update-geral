@@ -1,5 +1,5 @@
 {
-    "Version": "0.9.5",
+    "Version": "0.9.6",
     "ReleaseNotes": ". ",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
