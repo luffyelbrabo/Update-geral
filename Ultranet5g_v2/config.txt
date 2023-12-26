@@ -1,5 +1,5 @@
-{   "Version": "0",
-    "ReleaseNotes": "𝗧𝗜𝗚𝗘𝗥 𝗣𝗥𝗢 3 UPDATE NEW 🧑‍🔧",
+{   "Version": "1",
+    "ReleaseNotes": "ULTRANET-5G V2 UPDATE NEW 🧑‍🔧",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/Ultranet5g_v2/config.txt",
     "Sms": "",
     "EmailFeedback": "",
