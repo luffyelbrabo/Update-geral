@@ -1,5 +1,5 @@
 {
-    "Version": "0.9.4",
+    "Version": "0.9.5",
     "ReleaseNotes": ". ",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
@@ -250,7 +250,7 @@
             "Name": "TIM FRONT ON 01",
             "FLAG": "tim",
             "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate=h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
-            "SNI": "Atendimento.descomplica.com.br",             
+            "SNI": "lio-x-onboarding-app.m4u.com.br",             
             "TlsIP": "",
             "ProxyIP": "launches.appsflyer.com",
             "ProxyPort": "80",
