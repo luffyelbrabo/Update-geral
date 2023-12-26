@@ -290,8 +290,8 @@
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=h3013510lg758u816k.speedup.mobi;
-h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=
+8l01602310cb917g6e.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP": "108.139.113.89#108.139.113.53#108.139.113.49#108.139.113.4#108.139.95.19#108.139.95.5#108.139.95.50#108.139.95.87#3.163.10.104#3.163.10.121#3.163.10.112#3.163.10.54",
       "ProxyPort": "8080",
       "SNI": "",
@@ -305,7 +305,8 @@ h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: [random=h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: [random=
+8l01602310cb917g6e.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "8080",
       "SNI": "Atendimento.descomplica.com.br",
@@ -319,7 +320,8 @@ h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [random=h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [random=
+8l01602310cb917g6e.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "8080",
       "SNI": "Atendimento.descomplica.com.br",
@@ -501,8 +503,8 @@ h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=h3013510lg758u816k.speedup.mobi;
-h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=
+8l01602310cb917g6e.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "8080",
       "SNI": "lio-x-onboarding-app.m4u.com.br",
@@ -516,8 +518,8 @@ h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=h3013510lg758u816k.speedup.mobi;
-h606417359r7w71cg2.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=
+8l01602310cb917g6e.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "ProxyIP": "108.139.113.89#108.139.113.53#108.139.113.49#108.139.113.4#108.139.95.19#108.139.95.5#108.139.95.50#108.139.95.87#3.163.10.104#3.163.10.121#3.163.10.112#3.163.10.54",
       "ProxyPort": "8080",
       "SNI": "",
