@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "Atualizado dia 26/12 🆚 14.4🔥",
+            "Name": "Atualizado dia 26/12 🆚 14.5🔥",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dnetvpn.site",
