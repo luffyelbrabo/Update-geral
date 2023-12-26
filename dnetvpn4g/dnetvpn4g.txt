@@ -1,5 +1,5 @@
 {
-    "Version": "0.6",
+    "Version": "0.7",
     "ReleaseNotes": "Nova Atualização Disponível\n\nAtualize o Aplicativo\nPara Continuar usando\nnossos serviços os de Internet ilimitada",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/dnetvpn4g/dnetvpn4g.txt",
@@ -10,7 +10,7 @@
     "UdpPort": "7300",
     "Servers": [
        {
-            "Name": "Atualizado dia 24/11 🆚 14.2🔥",
+            "Name": "Atualizado dia 26/12 🆚 14.4🔥",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dnetvpn.site",
@@ -39,7 +39,7 @@
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "dnetvpn.site",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"            
         },
         {           
@@ -49,7 +49,7 @@
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "209.14.70.109",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"            
         },        
         {
@@ -59,7 +59,7 @@
            "SNI": "",
            "TlsIP": "",
            "ProxyIP": "209.14.70.109",
-           "ProxyPort": "8080",
+           "ProxyPort": "80",
            "Info": "Proxy"
         },
 	    {
@@ -69,7 +69,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -79,7 +79,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -89,7 +89,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -99,7 +99,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -109,7 +109,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
 },
         { 
@@ -120,7 +120,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -130,7 +130,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -140,7 +140,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 	  {
@@ -151,7 +151,7 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "209.14.70.109",
-    "ProxyPort": "8080",
+    "ProxyPort": "80",
     "Info": "Proxy"
     },
 {
