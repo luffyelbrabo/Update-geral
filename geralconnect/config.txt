@@ -3,7 +3,7 @@
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
-  "Site": "https://fast.com/pt/",
+  "Site": "http://speedtest.sercomtel.com.br/",
   "Servers": [    
     {
       "Name": "VIVO 1 ➜ CONFIG 1 ➜ SECURITY",
