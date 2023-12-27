@@ -1,5 +1,5 @@
 {
-  "Version": "29",
+  "Version": "30",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -16,7 +16,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://209.14.70.109:6888/checkUser",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -30,7 +30,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -44,7 +44,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -58,7 +58,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -72,7 +72,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -86,7 +86,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -100,7 +100,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -114,7 +114,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -128,7 +128,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -142,7 +142,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -156,7 +156,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -170,7 +170,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -184,7 +184,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -198,7 +198,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -212,7 +212,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -226,7 +226,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -240,7 +240,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -254,7 +254,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -268,7 +268,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -282,7 +282,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -299,7 +299,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -316,7 +316,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -333,7 +333,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
 
@@ -351,7 +351,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "lio-x-onboarding-app.m4u.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {      
@@ -365,7 +365,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -379,7 +379,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -393,7 +393,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -407,7 +407,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -421,7 +421,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -435,7 +435,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -449,7 +449,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -463,7 +463,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -477,7 +477,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -491,7 +491,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -505,7 +505,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -519,7 +519,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -533,7 +533,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -547,7 +547,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -561,7 +561,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     },
     {
@@ -575,7 +575,7 @@ m655107gsb954292f3.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://dnetvpn.site:6888/checkUser",
       "Info": "Proxy"
     }
   ]
