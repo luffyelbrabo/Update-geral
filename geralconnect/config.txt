@@ -16,7 +16,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://209.14.70.109:6888/checkUser",
       "Info": "Proxy"
     },
     {
