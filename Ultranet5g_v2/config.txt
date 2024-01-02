@@ -1,4 +1,4 @@
-{   "Version": "3",
+{   "Version": "4",
     "ReleaseNotes": "ULTRANET-5G V2 UPDATE NEW 🧑‍🔧",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/Ultranet5g_v2/config.txt",
     "Sms": "",
@@ -222,7 +222,7 @@
 {
       "Name": "TIM FRONT 01",
       "FLAG": "tim",
-      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=h3013510lg758u816k.speedup.mobi;8tcy2583091t72b377.speedup.mobi;5gj71uw805918350c8.speedup.mobi;5v7r73h0m915k97508.speedup.mobi;12i31cb073955av578.speedup.mobi;1995a3mdq60170w833.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=g1td97au2051749722.speedup.mobi;5875i20r9220s91t4l.speedup.mobi;31y5z7029nr9q74829.speedup.mobi;5400240c612a4o8b7z.speedup.mobi;24m5268k40s48z17x1.speedup.mobi;550f82k2523z1647mf.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.113.89#108.139.113.53#108.139.113.49#108.139.113.4#108.139.95.19#108.139.95.5#108.139.95.50#108.139.95.87#3.163.10.104#3.163.10.121#3.163.10.112#3.163.10.54",
@@ -232,7 +232,7 @@
     {
       "Name": "TIM FRONT 02",
       "FLAG": "tim",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: [randomh3013510lg758u816k.speedup.mobi;8tcy2583091t72b377.speedup.mobi;5gj71uw805918350c8.speedup.mobi;5v7r73h0m915k97508.speedup.mobi;12i31cb073955av578.speedup.mobi;1995a3mdq60170w833.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: [random=g1td97au2051749722.speedup.mobi;5875i20r9220s91t4l.speedup.mobi;31y5z7029nr9q74829.speedup.mobi;5400240c612a4o8b7z.speedup.mobi;24m5268k40s48z17x1.speedup.mobi;550f82k2523z1647mf.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "",
       "ProxyIP": "launches.appsflyer.com",
@@ -242,7 +242,7 @@
     {
       "Name": "TIM FRONT 03",
       "FLAG": "tim",
-      "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [random=h3013510lg758u816k.speedup.mobi;8tcy2583091t72b377.speedup.mobi;5gj71uw805918350c8.speedup.mobi;5v7r73h0m915k97508.speedup.mobi;12i31cb073955av578.speedup.mobi;1995a3mdq60170w833.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PATCH / HTTP/1.1[lf]Host: [random=g1td97au2051749722.speedup.mobi;5875i20r9220s91t4l.speedup.mobi;31y5z7029nr9q74829.speedup.mobi;5400240c612a4o8b7z.speedup.mobi;24m5268k40s48z17x1.speedup.mobi;550f82k2523z1647mf.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "",
       "ProxyIP": "launches.appsflyer.com",
@@ -252,7 +252,7 @@
     {
       "Name": "TIM  FRONT 04",
       "FLAG": "tim",
-      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=h3013510lg758u816k.speedup.mobi;8tcy2583091t72b377.speedup.mobi;5gj71uw805918350c8.speedup.mobi;5v7r73h0m915k97508.speedup.mobi;12i31cb073955av578.speedup.mobi;1995a3mdq60170w833.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH /app3 HTTP/1.1[lf]Host:[random=g1td97au2051749722.speedup.mobi;5875i20r9220s91t4l.speedup.mobi;31y5z7029nr9q74829.speedup.mobi;5400240c612a4o8b7z.speedup.mobi;24m5268k40s48z17x1.speedup.mobi;550f82k2523z1647mf.speedup.mobi][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "lio-x-onboarding-app.m4u.com.br",
       "TlsIP": "",
       "ProxyIP": "launches.appsflyer.com",
