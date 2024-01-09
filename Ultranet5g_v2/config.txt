@@ -1,5 +1,5 @@
 {
-    "Version":"1",
+    "Version":"2",
     "ReleaseNotes": "",
    "Sms": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/Ultranet5g_v2/sms.txt",
     "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/Ultranet5g_v2/config.txt",
@@ -22,7 +22,7 @@
       "SNI":"[app_host]",
       "TlsIP":"[app_host]",
       "TlsIP":"[app_host]",
-"ProxyIP":"904.131.101.519#209.14.70.109",
+"ProxyIP":"209.14.70.109",
       "ProxyPort": "80",
       "Info": "Proxy"
 },
@@ -221,7 +221,7 @@
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -237,7 +237,7 @@
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -252,8 +252,8 @@
 "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
-"ProxyIP": "172.64.150.8#104.18.7.41#104.18.6.80#openconnect.netflix.com#vivo360.vivo.com.br#legado.vivo.com.br#assine.vivo.com.br",
-"ProxyPort": "8080",
+"ProxyIP": "209.14.70.109",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -269,7 +269,7 @@
 "SNI":"[app_host]",
 "TlsIP": "[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -285,7 +285,7 @@
 "SNI":"[app_host]",
 "TlsIP": "[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -301,7 +301,7 @@
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -313,15 +313,11 @@
 "SSLPort": "443",
  "Online": "http://209.14.70.109:8888/server/online",
       "User@Pass":"",
-"Payload": "GET / HTTP/1.1\r\n
-Host: [app_host]\r\n
-Connection: Upgrade\r\n
-User-Agent: [ua]\r\n
-Upgrade: websocket\r\n\r\n",
+"Payload": "GET / HTTP/1.1\r\n Host: [app_host]\r\n Connection: Upgrade\r\n User-Agent: [ua]\r\n Upgrade: websocket\r\n\r\n",
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
@@ -333,15 +329,11 @@ Upgrade: websocket\r\n\r\n",
 "SSLPort": "443",
  "Online": "http://209.14.70.109:8888/server/online",
       "User@Pass":"",
-"Payload": "GET / HTTP/1.1\r\n
-Host: [app_host]\r\n
-Connection: Upgrade\r\n
-User-Agent: [ua]\r\n
-Upgrade: websocket\r\n\r\n",
+"Payload": "GET / HTTP/1.1\r\n Host: [app_host]\r\n Connection: Upgrade\r\n User-Agent: [ua]\r\n Upgrade: websocket\r\n\r\n",
 "SNI":"[app_host]",
 "TlsIP":"[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Direct"
 },
 {
@@ -357,7 +349,7 @@ Upgrade: websocket\r\n\r\n",
 "SNI": "[app_host]",
 "TlsIP": "[app_host]",
 "ProxyIP": "[app_host]",
-"ProxyPort": "8080",
+"ProxyPort": "80",
 "Info": "Proxy"
 },
 {
