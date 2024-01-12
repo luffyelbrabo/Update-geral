@@ -1,5 +1,5 @@
 {
-  "Version": "35",
+  "Version": "36",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -66,7 +66,7 @@
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
       "ServerIP": "elizeu.ultranet5g.dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]"",
+      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
       "ProxyIP": "elizeu.ultranet5g.dnetvpn.site",
       "ProxyPort": "80",
       "SNI": "elizeu.ultranet5g.dnetvpn.site",
