@@ -1,5 +1,5 @@
 {
-  "Version": "38",
+  "Version": "39",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -285,6 +285,34 @@
       "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
+    {
+      "Name": "TIM VALIDO/EXPIRADO",
+      "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+      "ServerIP": "dnetvpn.site",
+      "ServerPort": "80",
+      "Payload": "ACL /wss.html HTTP/1.1[crlf]Host: dnetvpn.site[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "ProxyIP": "znayp2saezuftgygo-mercadolibre.siteintercept.qualtrics.com",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM EXPIRADO 2024",
+      "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+      "ServerIP": "dnetvpn.site",
+      "ServerPort": "80",
+      "Payload": "[protocol]/A\B/N\[lf] [crlf][crlf]|[crlf]ACL[lf]puth[lf]",
+      "ProxyIP": "dnetvpn.site",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    }
     {
       "Name": "TIM FRONT 01",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
