@@ -304,7 +304,7 @@
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
-      "Payload": "[protocol]/A\B/N\[lf] [crlf][crlf]|[crlf]ACL[lf]puth[lf]",
+      "Payload": "[protocol]/A/B/N/[lf] [crlf][crlf]|[crlf]ACL[lf]puth[lf]",
       "ProxyIP": "dnetvpn.site",
       "ProxyPort": "80",
       "SNI": "",
