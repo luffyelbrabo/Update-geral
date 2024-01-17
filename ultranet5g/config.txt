@@ -312,7 +312,7 @@
       "PASS": "",
       "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
-    }
+    },
     {
       "Name": "TIM FRONT 01",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
