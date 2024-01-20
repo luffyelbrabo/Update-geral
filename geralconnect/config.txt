@@ -1,8 +1,8 @@
 {
-  "Version": "35",
+  "Version": "34",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
-  "Contato": "http://209.14.70.109:5001/",
+  "Contato": "",
   "Site": "http://speedtest.sercomtel.com.br/",
   "Servers": [    
     {
