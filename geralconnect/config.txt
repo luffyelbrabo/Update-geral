@@ -1,9 +1,9 @@
 {
-  "Version": "34",
+  "Version": "35",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/geralconnect/config.txt",
   "UdpPort": "7300",
   "Contato": "",
-  "Site": "http://speedtest.sercomtel.com.br/",
+  "Site": "http://209.14.70.109:5001/download/GERAL_CONNECT_5.apk",
   "Servers": [    
     {
       "Name": "VIVO 1 ➜ CONFIG 1 ➜ NOVA",
