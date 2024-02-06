@@ -1,5 +1,5 @@
 {
-  "Version": "51",
+  "Version": "52",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -230,6 +230,34 @@
       "Info": "Proxy"
 },
 {
+      "Name": "TIM EXPIRADO 01 modo avião",
+      "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+      "ServerIP": "w51tq63217797f2n06.speedup.mobi",
+      "ServerPort": "80",
+      "Payload": "PATCH wss://w51tq63217797f2n06.speedup.mobi/ [protocol][crlf][split]Host: frontaqui[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "ProxyIP": "18.161.200.50#18.161.200.81#18.161.200.41#18.161.200.80#18.161.200.96#18.67.145.109",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM EXPIRADO 02",
+      "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+      "ServerIP": "dnetvpn.site",
+      "ServerPort": "80",
+      "Payload": "[protocol][crlf] [crlf][crlf]@",
+      "ProxyIP": "dnetvpn.site",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    },
+    {
       "Name": "TIM FRONT 01",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
@@ -271,7 +299,6 @@
       "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
-
     {
       "Name": "TIM  FRONT 04",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
