@@ -1,10 +1,38 @@
 {
-  "Version": "52",
+  "Version": "53",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
   "Site": "http://speedtest.sercomtel.com.br/",
   "Servers": [    
+     {
+      "Name": "🟣Vivo=Aguarde até pegar [01]",
+      "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
+      "ServerIP": "dnetvpn.site",
+      "ServerPort": "80",
+      "Payload": "[delay_split][lf]GET / 55",
+      "ProxyIP": "dnetvpn.site",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣Vivo=Aguarde até pegar [02]",
+      "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
+      "ServerIP": "dnetvpn.site",
+      "ServerPort": "80",
+      "Payload":"[split][delay_split]ACL / /\n",
+      "ProxyIP": "dnetvpn.site",
+      "ProxyPort": "80",
+      "SNI": "",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "Info": "Proxy"
+    },
     {
       "Name": "VIVO 1 ➜ SECURITY 1 ➜ NOVA",
       "FLAG": "https://i.ibb.co/kDswgfm/vivo-security.png",
