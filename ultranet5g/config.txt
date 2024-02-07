@@ -1,5 +1,5 @@
 {
-  "Version": "54",
+  "Version": "55",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -16,7 +16,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -30,7 +30,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -44,7 +44,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -58,7 +58,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -72,7 +72,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -86,7 +86,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -100,7 +100,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -114,7 +114,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -128,7 +128,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -142,7 +142,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -156,7 +156,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -170,7 +170,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -184,7 +184,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -198,7 +198,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -212,7 +212,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -226,7 +226,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -240,7 +240,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -254,11 +254,151 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
-      "Name": "TIM EXPIRADO 01 modo avião",
+            "Name": "TIM NOVA EXPIRADO 01",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: dnetvpn.site[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 02",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.19.241.93[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 03",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.28.182[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 04",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.19.239.25[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"        
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 05",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.33.113[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 06",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 172.64.154.143[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 07",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.18.99.70[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"        
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 08",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.16.53.111[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 09",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 172.67.188.168[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM NOVA EXPIRADO 10",
+            "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: 104.17.64.225[crlf]Upgrade: websocket[crlf][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "80",
+            "SNI": "",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Proxy"
+        },
+{
+      "Name": "TIM EXPIRADO 11 modo avião",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "w51tq63217797f2n06.speedup.mobi",
       "ServerPort": "80",
@@ -268,11 +408,11 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
-      "Name": "TIM EXPIRADO 02",
+      "Name": "TIM EXPIRADO 12",
       "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
       "ServerIP": "dnetvpn.site",
       "ServerPort": "80",
@@ -282,7 +422,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -296,7 +436,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -310,7 +450,7 @@
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -324,7 +464,7 @@
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -338,7 +478,7 @@
       "SNI": "lio-x-onboarding-app.m4u.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     }
   ]
