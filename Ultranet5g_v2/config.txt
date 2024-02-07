@@ -1,9 +1,9 @@
 {
-    "Version": "1.1.2",
+    "Version": "1.0",
     "ReleaseNotes": "Nova Atualização Disponível 
     Mantenha o seu APP atualizado, caso ao contrário ele pode parar de funcionar, caso tenha problemas consulte o seu ADM. OBG POR USAR O NOSSO SERVIÇOS",
     "Sms": "LINK de Atualização SMS",
-    "UrlUpdate": "LINK de Atualização",
+    "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/Ultranet5g_v2/config.txt",
     "EmailFeedback": "",
     "UrlContato": "",
     "UrlTermos": "",
