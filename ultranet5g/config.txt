@@ -1,5 +1,5 @@
 {
-  "Version": "53",
+  "Version": "54",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -16,7 +16,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -30,7 +30,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -44,7 +44,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -58,7 +58,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -72,7 +72,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -86,7 +86,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -100,7 +100,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -114,7 +114,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -128,7 +128,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -142,7 +142,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -156,7 +156,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -170,7 +170,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -184,7 +184,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -198,7 +198,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -212,7 +212,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -226,7 +226,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -240,7 +240,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -254,7 +254,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
 {
@@ -268,7 +268,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -282,7 +282,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -296,7 +296,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -310,7 +310,7 @@
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -324,7 +324,7 @@
       "SNI": "Atendimento.descomplica.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     },
     {
@@ -338,7 +338,7 @@
       "SNI": "lio-x-onboarding-app.m4u.com.br",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+      "CheckUser": "https://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
     }
   ]
