@@ -1,5 +1,5 @@
 {
-  "Version": "57",
+  "Version": "58",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -257,6 +257,20 @@
       "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
       "Info": "Proxy"
 },
+{
+               "Name": "CLARO TESTE",
+            "FLAG": "https://i.ibb.co/fnhtGvd/claro02.png",
+            "ServerIP": "dnetvpn.site",
+            "ServerPort": "80",
+            "Payload": "GET / HTTP/1.1[crlf]Host: zlzero.waze.com[crlf]Upgrade: Websocket[crlf][split][crlf]",
+            "ProxyIP": "dnetvpn.site",
+            "ProxyPort": "443",
+            "SNI": "zlzero.waze.com",
+            "USER": "",
+            "PASS": "",
+            "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
+            "Info": "Ssl"
+        },
 {
             "Name": "TIM NOVA EXPIRADO 01",
             "FLAG": "https://i.ibb.co/McHnGqd/tim.png",
