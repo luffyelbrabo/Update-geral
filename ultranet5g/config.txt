@@ -1,5 +1,5 @@
 {
-  "Version": "58",
+  "Version": "59",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -269,7 +269,7 @@
             "USER": "",
             "PASS": "",
             "CheckUser": "http://painel.robertvpn.online/checkuser/conecta4g.php",
-            "Info": "Ssl"
+            "Info": "Tlsws"
         },
 {
             "Name": "TIM NOVA EXPIRADO 01",
