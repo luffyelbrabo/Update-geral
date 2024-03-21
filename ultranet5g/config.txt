@@ -1,5 +1,5 @@
 {
-  "Version": "66",
+  "Version": "67",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -30,7 +30,7 @@
       "SNI": "",
       "USER": "",
       "PASS": "",
-      "CheckUser": "https://ultranet5g.samuraihost.com.br/apiproxy/proxy.php?url=http://209.14.70.109:6888/checkUser",
+      "CheckUser": "https://ultranet5g.samuraihost.com.br/apiproxy/proxy.php?url=http://209.14.70.109:6888",
       "Info": "Proxy"
     },
     {
