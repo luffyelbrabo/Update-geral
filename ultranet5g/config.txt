@@ -1,5 +1,5 @@
 {
-  "Version": "67",
+  "Version": "68",
   "Update": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/ultranet5g/config.txt",
   "UdpPort": "7300",
   "Contato": "",
@@ -12,7 +12,7 @@
       "ServerPort": "80",
       "Payload": "[delay_split][lf]GET / 55",
       "ProxyIP": "0000:0000:0000:0000:0000:ffff:d10e:466d",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "SNI": "",
       "USER": "",
       "PASS": "",
