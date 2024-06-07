@@ -10,7 +10,7 @@
 ✅ *ᴄᴏɴᴇxᴀ̃ᴏ ᴠɪᴀ ᴀᴘʟɪᴄᴀᴛɪᴠᴏ*✅\n
 SEJA UM USUARIO VIP E TENHA A MELHOR INTERNET ILIMITADA ABRINDO TODOS APP DE BANCOS E APOSTAS ONLINE.!!!",
     "Sms": "",
-    "UrlUpdate": "https://painelconecta5g.com/update/pasta_PadilhaNet5G/config",
+    "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/Update-geral/main/conecta4g/1.0.txt",
     "UrlContato": "",
     "UrlTermos": "",
     "CheckUser": "true",
